@@ -7,3 +7,4 @@ just a simple practice motive for everyone.
 This is the list of the contributors of the Repository:
 
 - Jay Briones (AsperTheGhost)
+- Kirsten Campoy (ITZKC)
