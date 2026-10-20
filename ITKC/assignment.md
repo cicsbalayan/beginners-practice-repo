@@ -1,18 +1,27 @@
-
 # Assignment ni Kirsten
 
-Gagawin mo ito hindi maaring hinde. 
+Gagawin mo ito. Hindi maaaring hindi matapos.
 
 ## Instructions
 
-Follow these instructions:
-[] Once done with the project requirements (**It should classify the contraints and needs of the project, indicate that it must follow clean code and proper file structure, while the files should not exceed 400 lines of code, and components should be recyclable.**)
-[] Go to https://ui.shadcn.com/create, create a template (you can adjust if you want). Then once your configs is final, proceed to get code. You will need to pick **vite and npm**, it is seen in the configs once you click "**get code**".
-[] Go to https://colorhunt.co/, you will need to find a color palette that you like to use for your portfolio. Indicate this in the project_requirements.md, strictly indicate that this will be the color palette of the project. 
-[] Once done go to your working directory, then type **opencode** to open the ai agent. Proceed to prompt the setup by saying to **follow the project_requirements.md**. You are free to chat the agent to modify what you want. 
-[] Next, once you are done with the development of your porfolio, it is time to push it to github. 
-[] Finally, go to https://vercel.com, sign up in the site using your github account. Once done, proceed to deploy the repository of portfolio-ng-makulet. then wait until it finishes deploying. 
+Follow these instructions carefully:
+
+- [ ] **Define the project requirements.** Create a `project_requirements.md` file that clearly identifies the project's goals, features, constraints, and needs. The project must follow clean code principles and a proper file structure. Each source code file must not exceed 400 lines, and components must be reusable.
+
+- [ ] **Create a UI template.** Go to [shadcn/ui Create](https://ui.shadcn.com/create) and create a template. You may customize it according to your preferences. Once you have finalized the configuration, click **Get Code**. Make sure to select **Vite** and **npm** in the configuration options.
+
+- [ ] **Choose a color palette.** Visit [Color Hunt](https://colorhunt.co/) and select a color palette for your portfolio. Record the selected palette's colors and hex codes in `project_requirements.md`. Clearly state that this palette must be used throughout the project for a consistent design.
+
+- [ ] **Set up the AI coding agent.** Open your working directory in the terminal and run `opencode` to launch the AI coding agent. Instruct the agent to follow the specifications in `project_requirements.md`. You may continue prompting the agent to revise, improve, or customize the portfolio as needed.
+
+- [ ] **Develop your portfolio.** Allow the AI agent to build the portfolio according to the project requirements. Review the generated code, test the application, and make sure everything works as expected before proceeding.
+
+- [ ] **Push the project to GitHub.** Once the portfolio is complete and working correctly, create or use a GitHub repository and push your project to it. The repository must be named `portfolio-ng-makulet`.
+
+- [ ] **Deploy the portfolio using Vercel.** Go to [Vercel](https://vercel.com/) and sign up using your GitHub account. Import the `portfolio-ng-makulet` repository, configure the deployment settings if necessary, and deploy the project. Wait for the deployment to finish, then verify that the portfolio is accessible through its live URL.
 
 ## Note
 
-You are free to use any AI agents, study with youtube, or ask for guidance. **You are what you eat**
+You are free to use any AI coding agent, learn from YouTube tutorials, or ask for guidance whenever necessary.
+
+**Remember: You learn by doing.** Take the time to understand the tools and code you use, rather than simply relying on AI to complete the project.
